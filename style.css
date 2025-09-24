@@ -70,10 +70,9 @@ img {
   text-decoration: none;
 }
 
-.logo-text {
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: #ffffff;
+.logo {
+  height: 50px;
+  width: auto;
 }
 
 /* Navigation */
